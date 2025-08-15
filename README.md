@@ -14,5 +14,5 @@
 
 ## 📫 Contacto
 - 📧 mnicolaspoveda@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/nicolás-poveda)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolás-poveda)
 - 🐙 [GitHub](https://github.com/mnicolaspoveda)

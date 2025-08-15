@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Nicolas Poveda
 
-<!--
-**mnicolaspoveda/mnicolaspoveda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Ingeniería en Sistemas
+🚆 Ayudante de conductor de trenes  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+- C
+- JavaScript
+- React Native
+
+---
+
+## 📫 Contacto
+- 📧 mnicolaspoveda@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/nicolás-poveda)
+- 🐙 [GitHub](https://github.com/mnicolaspoveda)
